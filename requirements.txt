@@ -1,0 +1,8 @@
+flask
+flask-cors
+tensorflow==2.14.0
+numpy
+pillow
+scikit-learn
+gunicorn
+gdown
