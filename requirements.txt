@@ -1,9 +1,10 @@
 flask
 flask-cors
-tensorflow==2.14.0
+tensorflow==2.15.0
 numpy
 pillow
 scikit-learn
 gunicorn
 gdown
+
 
